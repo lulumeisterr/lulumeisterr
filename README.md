@@ -3,7 +3,7 @@
 
 <p> Meu nome é Lucas sou formado em Análise e Desenvolvimento de Sistemas pela FIAP com MBA em Full Stack development, trabalho com Java há mais de 3 anos, atuo como full-stack quando necessário :trollface:, tenho como objetivo novos aprendizados que vá além de soluções repetitivas(legadas) com desejos em novas experiências para melhores resultados profissionais. </p>
 
-# Tecnologias já utilizadas
+# Tecnologias utilizadas
 
 <ul>
   <li>Java 8,9,11 </li>
