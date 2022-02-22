@@ -57,5 +57,4 @@
 </ul>
 
 # Contato
-[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](http://steamcommunity.com/id/lulumeisterr/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lulumeister/)](https://www.linkedin.com/in/lulumeister/)
