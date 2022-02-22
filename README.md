@@ -1,19 +1,40 @@
-# Hi I'm Lucas! :D 👋
 
-<!--
-**lulumeisterr/lulumeisterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Sobre mim </h1>
 
-Here are some ideas to get you started:
+<p> Meu nome é Lucas sou formado em Análise e Desenvolvimento de Sistemas pela FIAP com MBA em Full Stack development, trabalho com Java há mais de 3 anos, atuo como full-stack quando necessário :trollface:, tenho como objetivo novos aprendizados que vá além de soluções repetitivas(legadas) com desejos em novas experiências para melhores resultados profissionais. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tecnologias já utilizadas
 
+<ul>
+  <li>Java 8,9,11 </li>
+    <ul>
+        <li>Spring</li>
+          <ul>
+            <li>Spring Security + JWT</li>
+            <li>Spring Data</li>
+            <li>Spring Batch</li>
+            <li>Spring Actuator</li>
+          </ul>
+        <li>JDBC</li>
+        <li>JSF 2</li>
+        <li>JSP Servlet</li>
+        <li>RichFaces</li>
+  </ul>  
+  <li>DB</li>
+    <ul>
+        <li>Mysql</li>
+        <li>FoundationDb</li>
+        <li>Oracle</li>    
+        <li>Informix</li>   
+    </ul>  
+  <li>Scripts para relatorio com python</li>
+  <li>Build JS CODE Nodejs</li>
+  <li>Stencil/JSX</li>
+  <li>React/JSX</li>
+  <li>PLSQL</li>
+  <li>RabbitMQ</li>
+</ul>
+
+# Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lulumeister/)](https://www.linkedin.com/in/lulumeister/)
 
