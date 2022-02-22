@@ -32,7 +32,7 @@
   <li>Stencil/JSX</li>
   <li>React/JSX</li>
   <li>PLSQL</li>
-  <li>RabbitMQ</li>
+  <li>RabbitMQ</li> 
 </ul>
 
 # Contato
