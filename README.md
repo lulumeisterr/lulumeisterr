@@ -45,8 +45,6 @@
         <li>Informix</li>  
         <li>H2</li>
     </ul>  
-  <li>Scripts para relatorio com python</li>
-  <li>Build JS CODE Nodejs</li>
   <li>Stencil/JSX</li>
   <li>React/JSX</li>
   <li>PLSQL</li>
