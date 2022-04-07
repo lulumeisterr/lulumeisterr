@@ -39,7 +39,7 @@
     <ul>
         <li>Mysql</li>
         <li>FoundationDb</li>
-        <li>Oracle</li>    
+        <li>Oracle/PLSQL</li>    
         <li>Informix</li>  
         <li>H2</li>
     </ul>
