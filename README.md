@@ -13,15 +13,6 @@
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=blue)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-![Mysql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Mysqlite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange)
-![GCP Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-
-
-
 <ul>
   <li>Java 8,9,11 </li>
     <ul>
@@ -44,11 +35,19 @@
         <li>Oracle</li>    
         <li>Informix</li>  
         <li>H2</li>
-    </ul>  
-  <li>Stencil/JSX</li>
-  <li>React/JSX</li>
-  <li>PLSQL</li>
-  <li>RabbitMQ</li> 
+    </ul>
+  
+  <li> Bibliotecas web </li>
+    <ul>
+      <li>Stencil</li>
+      <li>React</li>
+    </ul>
+  
+  <li> Mensagerias </li>
+    <ul>
+      <li>RabbitMQ</li> 
+    </ul>
+  
 </ul>
 
 # Contato
