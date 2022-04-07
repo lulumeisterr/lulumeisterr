@@ -27,7 +27,14 @@
         <li>JSF 2</li>
         <li>JSP Servlet</li>
         <li>RichFaces</li>
-  </ul>  
+  </ul>
+  
+  <li> Python para criação de relatorios e scripts de backup </li>
+     <ul>
+       <li>API Google Sheets</li>
+       <li>OpenPyXL</li>
+    </ul>
+  
   <li>DB</li>
     <ul>
         <li>Mysql</li>
@@ -46,6 +53,29 @@
   <li> Mensagerias </li>
     <ul>
       <li>RabbitMQ</li> 
+    </ul>
+  
+  <li> Nuvem </li>
+    <ul> 
+      <li> GCP - Google Cloud Platform </li>
+        <ul>
+          <li> VM </li>
+       </ul>
+      <li> Azure </li>
+        <ul>
+           <li> VM </li>
+           <li> Configuração de Ddos e vnets</li>
+           <li> Configuração webApp PAAS </li>
+        </ul>
+      <li> AWS - Referencia de conteudo https://github.com/37scj/aws-serverless-cloud-native-java </li>
+        <ul>
+          <li> EC2 </li>
+          <li> S3 </li>
+          <li> Api Gateway </li>
+          <li> AWS DynamoDB (Basic) </li>
+          <li> AWS Lambda </li>
+          <li> AWS SAM </li>
+      </ul>
     </ul>
   
 </ul>
