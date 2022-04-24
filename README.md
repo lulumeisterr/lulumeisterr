@@ -16,20 +16,26 @@
 <ul>
   <li>Java 8,9,11 </li>
     <ul>
-        <li>Spring</li>
+        <li>Spring/JAX-RS</li>
           <ul>
             <li>Spring Security + JWT</li>
             <li>Spring Data</li>
             <li>Spring Batch</li>
             <li>Spring Actuator</li>
           </ul>
-        <li>JDBC</li>
+        <li>JDBC / JPA + Hibernate</li>
         <li>JSF 2</li>
         <li>JSP Servlet</li>
         <li>RichFaces</li>
   </ul>
   
-  <li> Python para criação de relatorios e scripts de backup </li>
+  <li> .NET 6 </li>
+    <ul>
+       <li> C# v10 </li>
+       <li> EF. + Migrations </li>
+       <li> Flunt </li>
+      
+  <li> Python para desenvolvimentos de scripts </li>
      <ul>
        <li>API Google Sheets</li>
        <li>OpenPyXL</li>
