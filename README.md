@@ -34,7 +34,8 @@
        <li> C# v10 </li>
        <li> EF. + Migrations </li>
        <li> Flunt </li>
-      
+    </ul>
+  
   <li> Python para desenvolvimentos de scripts </li>
      <ul>
        <li>API Google Sheets</li>
