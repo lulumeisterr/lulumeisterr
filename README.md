@@ -28,14 +28,7 @@
         <li>JSP Servlet</li>
         <li>RichFaces</li>
   </ul>
-  
-  <li> .NET 6 </li>
-    <ul>
-       <li> C# v10 </li>
-       <li> EF. + Migrations </li>
-       <li> Flunt </li>
-    </ul>
-  
+ 
   <li> Python para desenvolvimentos de scripts </li>
      <ul>
        <li>API Google Sheets</li>
@@ -71,7 +64,6 @@
       <li> Azure </li>
         <ul>
            <li> VM </li>
-           <li> Configuração de Ddos e vnets</li>
            <li> Configuração webApp PAAS </li>
         </ul>
       <li> AWS - Referencia de conteudo https://github.com/37scj/aws-serverless-cloud-native-java </li>
