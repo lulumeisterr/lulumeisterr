@@ -24,17 +24,10 @@
             <li>Spring Actuator</li>
           </ul>
         <li>JDBC / JPA + Hibernate</li>
-        <li>JSF 2</li>
-        <li>JSP Servlet</li>
-        <li>RichFaces</li>
+        <li>JSF 2/Richfaces</li>
+        <li>JSP/Struts</li>
   </ul>
- 
-  <li> Python para desenvolvimentos de scripts </li>
-     <ul>
-       <li>API Google Sheets</li>
-       <li>OpenPyXL</li>
-    </ul>
-  
+
   <li>DB</li>
     <ul>
         <li>Mysql</li>
@@ -66,12 +59,12 @@
            <li> VM </li>
            <li> Configuração webApp PAAS </li>
         </ul>
-      <li> AWS - Referencia de conteudo https://github.com/37scj/aws-serverless-cloud-native-java </li>
+      <li> AWS </li>
         <ul>
           <li> EC2 </li>
           <li> S3 </li>
           <li> Api Gateway </li>
-          <li> AWS DynamoDB (Basic) </li>
+          <li> AWS DynamoDB </li>
           <li> AWS Lambda </li>
           <li> AWS SAM </li>
       </ul>
