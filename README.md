@@ -13,50 +13,49 @@
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=blue)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-<ul>
-  <li>Java 8,9,11 </li>
-    <ul>
-        <li>Spring/JAX-RS</li>
+<table style="width:100%">
+  <tr>
+    <th>Linguagem</th>
+    <th>Descrição exps</th>
+    <th>Banco de dados</th>
+    <th>Cloud Provider</th>
+    <th>Mensagerias</th>
+  </tr>
+  <tr>
+    <td>Java 8,9,11</td>
+    <td><ul>
+        <li> Distrubuiçao de servico com EJB (Enterprise java beans) </li>
+        <li> Disponibilização de apis com as especificações Jakarta EE JAX-RS/WS </>
+        <li>Spring MVC Versão 3/4 + JSP && RichFaces</li>
+        <li>Spring</li>
           <ul>
             <li>Spring Security + JWT</li>
             <li>Spring Data</li>
             <li>Spring Batch</li>
             <li>Spring Actuator</li>
+            <li>Spring Cloud/ServiceDiscovery</li>
           </ul>
         <li>JDBC / JPA + Hibernate</li>
         <li>JSF 2/Richfaces</li>
         <li>JSP/Struts</li>
-  </ul>
-
-  <li>DB</li>
-    <ul>
+  </ul></td>
+    <td>
+       <ul>
         <li>Mysql</li>
         <li>FoundationDb</li>
         <li>Oracle/PLSQL</li>    
         <li>Informix</li>  
         <li>H2</li>
     </ul>
-  
-  <li> Bibliotecas web </li>
-    <ul>
-      <li>Stencil</li>
-      <li>React</li>
-    </ul>
-  
-  <li> Mensagerias </li>
-    <ul>
-      <li>RabbitMQ</li> 
-    </ul>
-  
-  <li> Nuvem </li>
-    <ul> 
+    </td>
+    <td><ul> 
       <li> GCP - Google Cloud Platform </li>
         <ul>
-          <li> VM </li>
+          <li> VM IaaS </li>
        </ul>
       <li> Azure </li>
         <ul>
-           <li> VM </li>
+           <li> VM IaaS</li>
            <li> Configuração webApp PAAS </li>
         </ul>
       <li> AWS </li>
@@ -68,9 +67,48 @@
           <li> AWS Lambda </li>
           <li> AWS SAM </li>
       </ul>
-    </ul>
+    </ul></td>
+    <td>
+      <ul>
+        <li>RabbitMQ</li> 
+        <li>MQTT</li> 
+      </ul>
+    </td>
+  </tr>
+  <tr>
+  </tr>
   
-</ul>
+  <tr>
+    <td>.NET Core 6</td>
+    <td>
+      <li> ORM'S EntityFramework 6.4.4 </li>
+      <li> Ocelot como gateway / Service Discovery </li>
+      <li> Proxy reverso com nginx </li>
+      <li> Padrão de projeto com MVC</li>
+      <li> Padrão de projeto com CQRS com MediatoR</li>
+    </td>
+    <td>
+      <li> SQL Server </li>
+    </td>
+    <td>
+      Recursos utilizados pela Azure
+      <li> Azure IaaS </li>
+      <li> Azure Keyvault </li>
+      <li> Azure Storage </li>
+    </td>
+    <td><li> Azure Service Bus </li></td>
+  </tr>
+  <tr>
+  <td>Support back-end/front-end Javascript</td>
+  <td>
+    <ul>
+      <li>Stencil</li>
+      <li>React</li>
+    </ul>
+ </td>
+ </tr>
+  
+</table>
 
 # Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lulumeister/)](https://www.linkedin.com/in/lulumeister/)
