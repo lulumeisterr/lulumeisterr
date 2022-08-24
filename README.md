@@ -16,7 +16,7 @@
 <table style="width:100%">
   <tr>
     <th>Linguagem</th>
-    <th>Descrição exps</th>
+    <th>Recursos utilizados</th>
     <th>Banco de dados</th>
     <th>Cloud Provider</th>
     <th>Mensagerias</th>
