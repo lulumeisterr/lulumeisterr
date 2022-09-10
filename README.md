@@ -84,7 +84,7 @@
       <li> Ocelot como gateway / Service Discovery </li>
       <li> Proxy reverso com nginx </li>
       <li> Padrão de projeto com MVC</li>
-      <li> Padrão de projeto com CQRS com MediatoR</li>
+      <li> Padrão de projeto com CQRS & MediatoR</li>
     </td>
     <td>
       <li> SQL Server </li>
