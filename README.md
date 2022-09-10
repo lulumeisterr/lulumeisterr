@@ -90,7 +90,6 @@
       <li> SQL Server </li>
     </td>
     <td>
-      Recursos utilizados pela Azure
       <li> Azure IaaS </li>
       <li> Azure Keyvault </li>
       <li> Azure Storage </li>
