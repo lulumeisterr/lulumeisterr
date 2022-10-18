@@ -43,6 +43,7 @@
         <li>FoundationDb</li>
         <li>Oracle/PLSQL</li>    
         <li>Informix</li>  
+        <li>Redis</li>
         <li>H2</li>
     </ul>
     </td>
