@@ -3,7 +3,7 @@
 
 <h1> Sobre 👨‍ </h1>
 
-<p> Meu nome é Lucas sou formado em Análise e Desenvolvimento de Sistemas pela FIAP com MBA em Full Stack development, trabalho com Java há mais de 3 anos e atuo como full-stack quando necessário :trollface:.
+<p> Meu nome é Lucas sou formado em Análise e Desenvolvimento de Sistemas pela FIAP com MBA em Full Stack development, trabalho com desenvolvimento backend Java há mais de 3 anos e atuo como full-stack quando necessário :trollface:.
 
 # Tecnologias Já utilizadas 🔧
 
