@@ -24,7 +24,8 @@
     <td><ul>
         <li> Distrubuiçao de servico com EJB (Enterprise java beans) </li>
         <li> Disponibilização de apis com as especificações Jakarta EE JAX-RS/WS </>
-        <li>Spring MVC Versão 3/4 + JSP && RichFaces</li>
+        <li> Construção de tela e integração com javaFX </li>
+        <li>Spring MVC Versão 3/4</li>
         <li>Spring</li>
           <ul>
             <li>Spring Security + JWT</li>
@@ -34,8 +35,7 @@
             <li>Spring Cloud/ServiceDiscovery</li>
           </ul>
         <li>JDBC / JPA + Hibernate</li>
-        <li>JSF 2/Richfaces</li>
-        <li>JSP/Struts</li>
+        <li>JSF 2 / Richfaces / JSP / Struts</li>
   </ul></td>
     <td>
        <ul>
