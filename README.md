@@ -21,9 +21,10 @@
   </tr>
   <tr>
     <td>Java 8,9,11</td>
-    <td><ul>
+    <td>
+      <ul>
         <li> Distrubuiçao de servico com EJB (Enterprise java beans) </li>
-        <li> Disponibilização de apis com as especificações Jakarta EE JAX-RS/WS </>
+        <li> Disponibilização de apis com as especificações Jakarta EE JAX-RS/WS </li>
         <li> Construção de tela e integração com javaFX </li>
         <li>Spring MVC Versão 3/4</li>
         <li>Spring</li>
@@ -36,7 +37,8 @@
           </ul>
         <li>JDBC / JPA + Hibernate</li>
         <li>JSF 2 / Richfaces / JSP / Struts</li>
-  </ul></td>
+      </ul>
+    </td>
     <td>
        <ul>
         <li>Mysql</li>
@@ -47,34 +49,34 @@
         <li>H2</li>
     </ul>
     </td>
-    <td><ul> 
-      <li> GCP - Google Cloud Platform </li>
-        <ul>
-          <li> VM IaaS </li>
-       </ul>
-      <li> Azure </li>
-        <ul>
-           <li> VM IaaS</li>
-           <li> Configuração webApp PAAS </li>
+    <td>
+      <ul> 
+        <li> GCP - Google Cloud Platform </li>
+          <ul>
+            <li> VM IaaS </li>
+         </ul>
+        <li> Azure </li>
+          <ul>
+             <li> VM IaaS</li>
+             <li> Configuração webApp PAAS </li>
+          </ul>
+        <li> AWS </li>
+          <ul>
+            <li> EC2 </li>
+            <li> S3 </li>
+            <li> Api Gateway </li>
+            <li> AWS DynamoDB </li>
+            <li> AWS Lambda </li>
+            <li> AWS SAM </li>
         </ul>
-      <li> AWS </li>
-        <ul>
-          <li> EC2 </li>
-          <li> S3 </li>
-          <li> Api Gateway </li>
-          <li> AWS DynamoDB </li>
-          <li> AWS Lambda </li>
-          <li> AWS SAM </li>
-      </ul>
-    </ul></td>
+     </ul>
+    </td>
     <td>
       <ul>
         <li>RabbitMQ</li> 
         <li>MQTT</li> 
       </ul>
     </td>
-  </tr>
-  <tr>
   </tr>
   
   <tr>
@@ -94,18 +96,31 @@
       <li> Azure Keyvault </li>
       <li> Azure Storage </li>
     </td>
-    <td><li> Azure Service Bus </li></td>
+    <td>
+      <li> Azure Service Bus </li>
+    </td>
   </tr>
+ 
   <tr>
-  <td>Support back-end/front-end Javascript</td>
-  <td>
-    <ul>
-      <li>Stencil</li>
-      <li>React</li>
-    </ul>
- </td>
- </tr>
-  
+     <td>Outros</td>
+     <td>
+        <ul>
+          <li>Docker / Docker Compose</li>
+          <li>Python - criação de scripts</li>
+          <li>IA</li>
+           <ul>
+             <li>IBM - Watson NLP</li>
+             <li>Microsoft - Speech to text</li>
+             <li>Microsoft - Luis NLU</li>
+           </ul>
+          <li>Support back-end/front-end Javascript</li>
+              <ul>
+                <li>Stencil</li>
+                <li>React</li>
+              </ul>
+        </ul>
+    </td>
+  </tr>
 </table>
 
 # Contato
