@@ -107,17 +107,14 @@
         <ul>
           <li>Docker / Docker Compose</li>
           <li>Python - criação de scripts</li>
+          <li>Stencil</li>
+          <li>React</li>
           <li>IA</li>
            <ul>
              <li>IBM - Watson NLP</li>
              <li>Microsoft - Speech to text</li>
              <li>Microsoft - Luis NLU</li>
            </ul>
-          <li>Support back-end/front-end Javascript</li>
-              <ul>
-                <li>Stencil</li>
-                <li>React</li>
-              </ul>
         </ul>
     </td>
   </tr>
