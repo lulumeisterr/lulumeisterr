@@ -23,7 +23,7 @@
     <td>Java 8,9,11</td>
     <td>
       <ul>
-        <li> Distrubuiçao de servico com EJB (Enterprise java beans) </li>
+        <li> Distribuição de servico com EJB (Enterprise java beans) </li>
         <li> Disponibilização de apis com as especificações Jakarta EE JAX-RS/WS </li>
         <li> Construção de tela e integração com javaFX </li>
         <li>Spring MVC Versão 3/4</li>
@@ -80,9 +80,9 @@
   </tr>
   
   <tr>
-    <td>.NET Core 6</td>
+    <td>.NET Core 6 / .NET FRAMEWORK 4.7.2 </td>
     <td>
-      <li> ORM'S EntityFramework 6.4.4 </li>
+      <li> ORM'S EntityFramework 6.4.4 / ADO.NET </li>
       <li> Ocelot como gateway / Service Discovery </li>
       <li> Proxy reverso com nginx </li>
       <li> Padrão de projeto com MVC</li>
@@ -90,6 +90,7 @@
     </td>
     <td>
       <li> SQL Server </li>
+      <li> Oracle DB </li>
     </td>
     <td>
       <li> Azure IaaS </li>
@@ -108,6 +109,7 @@
           <li>Docker / Docker Compose</li>
           <li>Python - criação de scripts</li>
           <li>Stencil</li>
+          <li>Angular 12</li>
           <li>React</li>
           <li>IA</li>
            <ul>
